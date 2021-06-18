@@ -93,12 +93,11 @@ The project currently does the following things.
 ![Roadmap](./static/img/roadmap.jpg)
 - For continuous tracking, there is a daily form to fill every day. We track the user’s carbon footprint daily and display it in the form of a monthly average carbon footprint, carbon footprint so far this month and a graph showing their emissions per month since they signed up.
 
-![Roadmap](./static/img/roadmap.jpg)
+![Roadmap](./static/img/graph.png)
 - CarboHack provides personalized suggestions according to the user’s overall goal to achieve and the information they provide us with every day.
 
 ![Roadmap](./static/img/sugges.png)
 
-It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift, for example.
 
 ### *What more will CarboHack do in the future?*
 
