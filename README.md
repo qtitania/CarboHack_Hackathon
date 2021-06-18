@@ -4,7 +4,7 @@
 
 **CARBOHACK- Web Application meant to calculate and track your carbon footprint and provide you suggestions on how to reduce it.**
 
-![Logo](./static/img/roadmap.jpg)
+![Logo](./static/img/logo.png)
 
 ## Contents
 
