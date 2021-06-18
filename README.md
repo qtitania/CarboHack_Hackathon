@@ -121,7 +121,9 @@ IBM DB2
 - URMI JANA
 - AUNOMITRA GHOSH
 
+##TECHNOLOGY STACK 
 
+![Roadmap](./static/img/html-5.svg)
 
 
 
