@@ -50,10 +50,6 @@ Watch the video here: https://cloud.ibm.com/catalog?search=cloudant#search_resul
 
 ![Video transcription/translation app](./static/img/archi.png)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
 
 ## LONG DESCRIPTION:
 
@@ -71,7 +67,7 @@ There are two major ways in which this webapp plans on accomplishing that task.
 
 - *One*, it helps individuals reduce their own carbon footprint by assigning goals and providing the steps required to accomplish them. This would go miles in achieving our objective as every change begins at an individual level. 
 
-![Roadmap](./static/img/roadmap.jpg)
+![Roadmap](./static/img/goal.png)
 
 - *Two* , it provides the much-required data. India suffers from a severe lack of proper carbon footprint tracking apps unlike other countries and we seek to change that. Chandigarh is the first and only state/union territory of India to have an app to measure carbon footprint. Even so, carbonwatch (the aforementioned app) is pretty inaccessible and hard to use as it asks for the exact amount of electricity used in kwh and such other details that would be difficult for the user to provide. CarboHack is an improvement in that space as it asks the user questions which can be readily answered and provides an accurate estimate after calculation. CarboHack will store individual footprint records throughout the months and organize it by state/union territory (of residence). 
 Hence, it would be possible to get individual carbon footprints in different states of India. It would be easy to find out averages or see the trends in every state. For example, which state has the highest average carbon footprint and is it because of the excess usage of cars by individuals or too much emission by industries? What is the state with lowest average carbon footprint doing right?  This particular brand of information and data is invaluable if we are to attempt to bring down tour country’s greenhouse gases emission. Why is this data so important? The first step to change in any area is research and procuring data in that area. There are many organizations and changemakers who are looking for ways to reduce carbon emissions. The data that they require can be provided by us. That is our objective.
@@ -87,10 +83,10 @@ The project currently does the following things.
 
 - Currently, a portion of our dream has been materialized in the form of CarboHack’s present version consisting of a landing page, a sign-in/sign-up page, an initial entry form and a daily form to calculate and track carbon footprints and a user page with everything they need or want to know, all of which have a beautiful and easy-to-use UI in common.
 
-![Roadmap](./static/img/roadmap.jpg)
+![Roadmap](./static/img/sign.png)
 - The landing page lets the user know in few words what is carbon footprint and what the role of CarboHack is and takes to the sign-in/sign-up page. If the user is signing up, they have to fill an initial questionnaire and then we display their carbon footprint estimate calculated using 3 major parameters.
 
-![Roadmap](./static/img/roadmap.jpg)
+![Roadmap](./static/img/Electricity form.jpg)
 
 ![Roadmap](./static/img/roadmap.jpg)
 
@@ -100,7 +96,7 @@ The project currently does the following things.
 ![Roadmap](./static/img/roadmap.jpg)
 - CarboHack provides personalized suggestions according to the user’s overall goal to achieve and the information they provide us with every day.
 
-![Roadmap](./static/img/roadmap.jpg)
+![Roadmap](./static/img/sugges.png)
 
 It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run on Red Hat OpenShift, for example.
 
