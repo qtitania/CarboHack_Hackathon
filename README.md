@@ -1,6 +1,5 @@
 # CARBOHACK-TRACK YOUR CARBON FOOTPRINT
-<!-- 
-[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Community](https://img.shields.io/badge/Join-Community-blue)](https://developer.ibm.com/callforcode/get-started/) [![Website](https://img.shields.io/badge/View-Website-blue)](https://sample-project.s3-web.us-east.cloud-object-storage.appdomain.cloud/) -->
+
 
 **CARBOHACK- Web Application meant to calculate and track your carbon footprint and provide you suggestions on how to reduce it.**
 
@@ -43,8 +42,9 @@ Our idea is creating a web application called CarboHack meant to calculate and t
 
 ## DEMO VIDEO:
 
-<!-- [![Watch the video](./static/img/logo.png)]() -->
 ### Watch the video here: https://youtu.be/UdkeWFFWnTg
+
+
 
 
 ## THE ARCHITECTURE:
@@ -107,26 +107,10 @@ The project currently does the following things.
 
 ![Roadmap](./static/img/commu.png)
 
-<!-- ## Getting started
-
-In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
-
-- [sample-react-app](./sample-react-app/)
-- [sample-angular-app](./sample-angular-app/)
-- [Explore other projects](https://github.com/upkarlidder/ibmhacks) -->
-
-## LIVE DEMO:
-
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
 
 ## IBM SERVICE USED:
 
-<!-- - [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-- [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-- [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-- [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-- [Maven](https://maven.apache.org/) - Dependency management
-- [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds -->
+
 IBM DB2
 
 ## TEAM:
@@ -139,21 +123,7 @@ IBM DB2
 
 
 
-<!-- ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
-## Authors
-
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
-</a>
-
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
-
-## License
-
-This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details. -->
 
 ### THANK YOU
 
