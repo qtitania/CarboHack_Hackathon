@@ -68,8 +68,15 @@ $("#final-submit").click(function(e) {
         flights:$('#flight').val(),
         state:$('#state').val()
     };
-
-    console.log(user_info);
+    for(let x in user_info){
+        if (user_info[x] == '' || user_info[x] == null)
+        {
+            alert("Please fill in every field")
+            return 
+        }
+      }
+      
+    //console.log(user_info);
     $.ajax({
         type: "POST",
         url: '/questionare_filling',
@@ -80,7 +87,7 @@ $("#final-submit").click(function(e) {
         {
             if (response.resp1 === 'Correct') {
               if (response.resp2 === 'Registered'){
-                window.location.href = '#';
+                window.location.href = '/MyAccount';
               }
               else{
                   alert(response.resp2);
