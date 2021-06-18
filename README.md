@@ -43,12 +43,13 @@ Our idea is creating a web application called CarboHack meant to calculate and t
 
 ## DEMO VIDEO:
 
-<!-- [![Watch the video](./static/img/logo.png)](https://youtu.be/UdkeWFFWnTg) -->
-Watch the video here: https://cloud.ibm.com/catalog?search=cloudant#search_results
+<!-- [![Watch the video](./static/img/logo.png)]() -->
+Watch the video here: https://youtu.be/UdkeWFFWnTg
+
 
 ## THE ARCHITECTURE:
 
-![Video transcription/translation app](./static/img/archi.png)
+![Architecture](./static/img/archi.png)
 
 
 ## LONG DESCRIPTION:
