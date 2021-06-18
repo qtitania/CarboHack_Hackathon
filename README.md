@@ -19,7 +19,6 @@
   - [Solution Roadmap](#solution-roadmap)
     - [What does CarboHack currently do?](#what-does-carboHack-currently-do)
     - [What more will CarboHack do in the future?](#what-more-will-carboHack-do-in-the-future)
-  - [Live Demo](#live-demo)
   - [IBM Service Used](#ibm-service-used)
   - [The Team](#team)
 
