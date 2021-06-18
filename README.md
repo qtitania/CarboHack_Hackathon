@@ -108,7 +108,7 @@ It's in a free tier IBM Cloud Kubernetes cluster. In the future we plan to run o
 - When we have collected a large amount data points, we wish to incorporate machine learning and help our system learn to plot and predict the carbon emission rate at some particular location in the near future. We believe the ceiling of potential this project has is unimaginably high.
 - We are planning to make a community blog portal creating India's first climate change portal where fellow humans who are worried about the environment can come together and share their personal initiatives and ideas and have a platform to communicate and collaborate in their fight against climate change. 
 
-![Roadmap](./static/img/roadmap.jpg)
+![Roadmap](./static/img/commu.png)
 
 <!-- ## Getting started
 
