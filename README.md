@@ -123,7 +123,6 @@ IBM DB2
 
 ##TECHNOLOGY STACK 
 
-![Roadmap](./static/img/html-5.svg)
 
 
 
