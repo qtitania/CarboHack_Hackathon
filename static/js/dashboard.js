@@ -465,6 +465,7 @@ $(document).ready(function(){
 
 
 $("#next1").click(function(e) {
+  let cond=true;
     var user_info={
         bus:$('#bus-points').val(),
         taxi:$('#taxi-points').val(),
@@ -485,9 +486,11 @@ $("#next1").click(function(e) {
       if (user_info[x] == '')
       {
         alert("Please fill in every field")
-        return 
+        cond=false;
+        break;
       }
     }
+    if(cond){
     $.ajax({
         type: "POST",
         url: '/questionare_update',
@@ -513,7 +516,8 @@ $("#next1").click(function(e) {
         error: function(){
           alert("server side error");
         }
-    })
+    });
+  }
     e.preventDefault();
 });
 
