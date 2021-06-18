@@ -84,7 +84,6 @@ The project currently does the following things.
 
 - Currently, a portion of our dream has been materialized in the form of CarboHack’s present version consisting of a landing page, a sign-in/sign-up page, an initial entry form and a daily form to calculate and track carbon footprints and a user page with everything they need or want to know, all of which have a beautiful and easy-to-use UI in common.
 
-![Roadmap](./static/img/sign.png)
 - The landing page lets the user know in few words what is carbon footprint and what the role of CarboHack is and takes to the sign-in/sign-up page. If the user is signing up, they have to fill an initial questionnaire and then we display their carbon footprint estimate calculated using 3 major parameters.
 
 ![Roadmap](./static/img/elect.png)
