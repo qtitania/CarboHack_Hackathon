@@ -19,7 +19,6 @@
   - [Solution Roadmap](#solution-roadmap)
     - [What does CarboHack currently do?](#what-does-carboHack-currently-do)
     - [What more will CarboHack do in the future?](#what-more-will-carboHack-do-in-the-future)
-  - [Live Demo](#live-demo)
   - [IBM Service Used](#ibm-service-used)
   - [The Team](#team)
 
@@ -100,6 +99,9 @@ The project currently does the following things.
 
 - CarboHack is going to be scaled to the national level where we can trace the carbon emissions of individuals and hence of a locality, town, city, we give them the steps to reduce their carbon footprints and reward them with environmental points. 
 - CarboHack will be expanded to measure footprint of organizations and industries which undoubtedly contribute more greenhouses gases than common-place individuals. The webapp will help whole organizations to cut-down their carbon emissions which will make huge strides in improving our environment and slowing down climate change. 
+ 
+![Architecture](./static/img/fut.png)
+
 - Even more parameters will be added to make the assessment more accurate and provide further more specific but easy-to-implement suggestions. 
 - When we have collected a large amount data points, we wish to incorporate machine learning and help our system learn to plot and predict the carbon emission rate at some particular location in the near future. We believe the ceiling of potential this project has is unimaginably high.
 - We are planning to make a community blog portal creating India's first climate change portal where fellow humans who are worried about the environment can come together and share their personal initiatives and ideas and have a platform to communicate and collaborate in their fight against climate change. 
