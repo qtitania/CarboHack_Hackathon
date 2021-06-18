@@ -4,7 +4,7 @@
 
 **CARBOHACK- Web Application meant to calculate and track your carbon footprint and provide you suggestions on how to reduce it.**
 
-![Logo](./static/img/wwd.jpg)
+![Logo](./static/img/wwd1.jpg)
 
 ## Contents
 
@@ -60,7 +60,7 @@ Our idea is creating a web application called CarboHack meant to calculate and t
 
 Carbon Footprint is the amount of total greenhouse gas emission by an individual, an organization, an event or a place. CarboHack measures the carbon emission of an individual. As we are all aware, the addition of greenhouse gases into the atmosphere is the main culprit of Global Warming. At this rate, major cities of the world will be under water in 30 years. CarboHack is merely an initiative to prevent that. 
 
-![Roadmap](./static/img/wicf.jpg)
+![Roadmap](./static/img/wicf1.jpg)
 
 ### *How does CarboHack accomplish that task?*
 
