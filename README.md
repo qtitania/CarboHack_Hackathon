@@ -39,7 +39,7 @@ We plan on letting people know both exactly how much they are contributing to th
 
 Our idea is creating a web application called CarboHack meant to calculate and track carbon footprint on an individual (and later, organizational as well) basis and provide the individual suggestions on how to reduce it. CarboHack will store individual footprint records throughout the months and organize it by state/union territory (of residence). There are many organizations and changemakers who are looking for ways to reduce carbon emissions who have no way of procuring the data required for them to act. The data that they require can be provided by us.
 
-![Roadmap](./static/img/roadmap.jpg)
+![Roadmap](./static/img/ce.png)
 
 ## DEMO VIDEO:
 
