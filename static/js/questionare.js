@@ -52,6 +52,7 @@ function showSliderValue() {
 }
 
 $("#final-submit").click(function(e) {
+    let cond = true;
     var user_info={
         bus:$('#step1-bus').val(),
         taxi:$('#step1-taxi').val(),
@@ -72,11 +73,13 @@ $("#final-submit").click(function(e) {
         if (user_info[x] == '' || user_info[x] == null)
         {
             alert("Please fill in every field")
-            return 
+            cond=false;
+            break;
         }
       }
       
     //console.log(user_info);
+    if (cond){
     $.ajax({
         type: "POST",
         url: '/questionare_filling',
@@ -101,5 +104,6 @@ $("#final-submit").click(function(e) {
           alert("server side error");
         }
     });
+}
     e.preventDefault();
 });
