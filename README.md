@@ -97,7 +97,7 @@ The project currently does the following things.
 
 
 ### *What more will CarboHack do in the future?*
-
+![Roadmap](./static/img/fut.png)
 - CarboHack is going to be scaled to the national level where we can trace the carbon emissions of individuals and hence of a locality, town, city, we give them the steps to reduce their carbon footprints and reward them with environmental points. 
 - CarboHack will be expanded to measure footprint of organizations and industries which undoubtedly contribute more greenhouses gases than common-place individuals. The webapp will help whole organizations to cut-down their carbon emissions which will make huge strides in improving our environment and slowing down climate change. 
 - Even more parameters will be added to make the assessment more accurate and provide further more specific but easy-to-implement suggestions. 
