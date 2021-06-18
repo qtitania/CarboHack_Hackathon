@@ -171,6 +171,7 @@ def processing_signin():
     #user_info['id']=None
     if db_S.check_user_table(user_info):
         session['user']=user_info
+        session['name']=user_info['firstname']+user_info['lastname']
         if db_S.check_user_input_table(user_info):
             return jsonify({"resp" : "Correct", "resp2":'/MyAccount'})
         else:
@@ -458,7 +459,7 @@ def User_Profile():
     #    return redirect('/questionare')
 #    Details of the parameters taken in from the questionaire. Stored in the database. Graph is plotted. Things to be calculated according to formulae present here.
 #    https://docs.google.com/document/d/1qZepM5Bbe13qaWUCraEf1Hmmb-otN7MImFnaBgSw44w/edit?ts=60bf9810
-    return render_template('user.html', fullname=session['user']['name'], state=state, email=session['user']['email'])
+    return render_template('user.html', fullname=session['name'], state=state, email=session['user']['email'])
 
 
 @app.route('/community')
