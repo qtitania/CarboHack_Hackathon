@@ -109,10 +109,6 @@ The project currently does the following things.
 ![Roadmap](./static/img/commu.png)
 
 
-## IBM SERVICE USED:
-
-
-IBM DB2
 
 ## TEAM:
 
